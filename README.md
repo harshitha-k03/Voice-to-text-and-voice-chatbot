@@ -23,7 +23,7 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/aquibali01/voice-to-voice-chatbot.git
+   git clone https://github.com/harshitha-k03/Voice-to-text-and-voice-chatbot.git
    
    cd voice-to-voice-chatbot
 
